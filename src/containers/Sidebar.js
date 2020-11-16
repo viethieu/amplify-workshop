@@ -182,7 +182,7 @@ export default function Sidebar({activeListItem}) {
               onClick={signOut}
               fullWidth
             >
-              Sign out
+              Log out
             </Button>
           } />
         </ListItem>
