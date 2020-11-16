@@ -15,10 +15,13 @@
             "auth": {
                 "boyaki30847d72": {}
             },
+            "function": {
+                "createPostAndTimeline": {}
+            },
             "hosting": {
                 "amplifyhosting": {
                     "appId": "d2xi2ttsncfzgp",
-                    "type": "manual"
+                    "type": "cicd"
                 }
             }
         }
@@ -43,12 +46,7 @@
                 "createPostAndTimeline": {},
                 "BoyakiGql": {}
             },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d2xi2ttsncfzgp",
-                    "type": "manual"
-                }
-            }
+            "hosting": {}
         }
     }
 }
